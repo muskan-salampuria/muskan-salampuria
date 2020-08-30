@@ -1,6 +1,5 @@
-### <p><h1 align="center">Hello World :earth_asia:, I am Muskan Salampuria</h1><br></p>
-<br>
-<h3>I like experimenting with new technologies, building small projects, and occassionally joining hackathons.</h3>
+### <p><h1 align="center">Hello World :earth_asia:, I am Muskan Salampuria</h1>
+<h3>I like experimenting with new technologies, building small projects, and occassionally joining hackathons.</h3></p>
 
 - 🌱 I’m currently learning <b>Data Science.</b>
 - 👯 I’m looking to collaborate on <b>Different Machine Learning Projects, Web Development</b>
