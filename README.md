@@ -1,4 +1,4 @@
-### Hello World :earth_asia:, I am Muskan Salampuria
+### <p><h1 align="center">Hello World :earth_asia:, I am Muskan Salampuria</h1><br></p>
 
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Different Machine Learning Projects
