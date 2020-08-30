@@ -1,8 +1,7 @@
-### <p><h1 align="center">Hello World :earth_asia:, I am Muskan Salampuria</h1>
-<h3>I like experimenting with new technologies, building small projects, and occassionally joining hackathons.</h3></p>
-
+### <h1 align="center">Hello World :earth_asia:, I am Muskan Salampuria</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandujjwal03" alt="anandujjwal03" /> </p>
+<h3>I like experimenting with new technologies, building small projects, and occassionally joining hackathons.</h3>
 
 - 🌱 I’m currently learning <b>Data Science.</b>
 
