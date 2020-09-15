@@ -47,4 +47,5 @@
  <a href="https://www.kaggle.com/muskansalampuria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/muskansalampuria" height="30" width="30" /></a>
 <a href="https://www.facebook.com/muski.kool/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/muski.kool/" height="30" width="30" /></a>
 <a href="https://www.instagram.com/muskansalampuria/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/muskansalampuria/" height="30" width="30" /></a>
+ <a href="mailto:muski.kool@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mailto:muski.kool@gmail.com" height="30" width="30" /></a>
 </p>
