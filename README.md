@@ -25,7 +25,8 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="vsc" width="40" height="40"/>
  
   </p>
 
