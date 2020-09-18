@@ -30,6 +30,8 @@
   <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="ecllipse" width="40" height="40"/>
  <img src="https://banner2.cleanpng.com/20180514/rkw/kisspng-code-blocks-integrated-development-environment-c-5af9eee0253788.5088014415263290561525.jpg" alt="codeblocxks" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+ <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" width="40" height="40"/> 
+ 
   </p>
 
 <br>
