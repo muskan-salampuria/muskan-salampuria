@@ -54,6 +54,6 @@
  <a href="https://www.kaggle.com/muskansalampuria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/muskansalampuria" height="30" width="30" /></a>
 <a href="https://www.facebook.com/muski.kool/about" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/muski.kool/about" height="30" width="30" /></a>
 <a href="https://www.instagram.com/muskansalampuria/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/muskansalampuria/" height="30" width="30" /></a>
- <a href="mailto:muski.kool@gmail.com" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/preview/-11597285404yv0y3wlv1z.png" alt="mailto:muski.kool@gmail.com" height="30" width="30" /></a>
+ <a href="mailto:muski.kool@gmail.com" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/preview/-11597285404yv0y3wlv1z.png" alt="mailto:msalampuria07@gmail.com" height="30" width="30" /></a>
  <a href="https://www.hackerrank.com/muski_kool" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/muski_kool" height="30" width="30" /></a>
 </p>
