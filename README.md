@@ -18,7 +18,7 @@
 <p align="center">
   <br>
  
- <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-512%2Fc-programming-569564.png&imgrefurl=https%3A%2F%2Ficonscout.com%2Ficon%2Fc-programming&tbnid=ECVGyTOg8mSWKM&vet=12ahUKEwipsNfi9cjuAhUENCsKHTyzAKoQMygAegUIARC1AQ..i&docid=utT8crLeFoXj_M&w=512&h=512&q=c%20language%20logo&ved=2ahUKEwipsNfi9cjuAhUENCsKHTyzAKoQMygAegUIARC1AQ" alt="C" width="40" height="40"/>
+ <img src="" alt="C" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
