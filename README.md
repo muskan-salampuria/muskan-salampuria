@@ -18,7 +18,7 @@
 <p align="center">
   <br>
  
- <img src="" alt="C" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/muskan-salampuria/muskan-salampuria/74de5d7d84fb9a3e776c0d00aea30b21c65fd82b/c-programming.svg" alt="C" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
