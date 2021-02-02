@@ -19,7 +19,7 @@
   <br>
  
  <img src="https://raw.githubusercontent.com/muskan-salampuria/muskan-salampuria/74de5d7d84fb9a3e776c0d00aea30b21c65fd82b/c-programming.svg" alt="C" width="40" height="40"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+ <img src="https://raw.githubusercontent.com/muskan-salampuria/muskan-salampuria/d2ad98299ae336965d6a4737d6363ba566283193/java.svg" alt="java" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
