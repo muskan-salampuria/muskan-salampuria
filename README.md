@@ -23,8 +23,8 @@
  <img src="https://raw.githubusercontent.com/muskan-salampuria/muskan-salampuria/0caab32de528276613e6eb6d43dbd0d24a4f812e/icons/python.svg" alt="python" width="40" height="40"/> 
  <img src="" alt="mysql" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
+ <img src="" alt="bootstrap" width="40" height="40"/> 
+ <img src="" alt="css3" width="40" height="40"/>  
  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
  
  <img src="https://banner2.cleanpng.com/20180514/rkw/kisspng-code-blocks-integrated-development-environment-c-5af9eee0253788.5088014415263290561525.jpg" alt="codeblocxks" width="40" height="40"/>
