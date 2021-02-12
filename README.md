@@ -25,7 +25,7 @@
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
  <img src="" alt="bootstrap" width="40" height="40"/> 
  <img src="" alt="css3" width="40" height="40"/>  
- <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+ <img src="" alt="html5" width="40" height="40"/> 
  
  <img src="https://banner2.cleanpng.com/20180514/rkw/kisspng-code-blocks-integrated-development-environment-c-5af9eee0253788.5088014415263290561525.jpg" alt="codeblocxks" width="40" height="40"/>
  <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="40" height="40"/>
