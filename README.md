@@ -24,7 +24,7 @@
  <img src="" alt="mysql" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/muskan-salampuria/muskan-salampuria/12471ae34448b660674c5a54b7a38f2586fb5df4/icons/bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
- <img src="" alt="css3" width="40" height="40"/>  
+ <img src="https://raw.githubusercontent.com/muskan-salampuria/muskan-salampuria/53179a792daa27b6340801fdf7eca3b77a8c17d0/icons/css3.svg" alt="css3" width="40" height="40"/>  
  <img src="" alt="html5" width="40" height="40"/> 
  
  <img src="https://banner2.cleanpng.com/20180514/rkw/kisspng-code-blocks-integrated-development-environment-c-5af9eee0253788.5088014415263290561525.jpg" alt="codeblocxks" width="40" height="40"/>
