@@ -23,7 +23,7 @@
  <img src="https://raw.githubusercontent.com/muskan-salampuria/muskan-salampuria/0caab32de528276613e6eb6d43dbd0d24a4f812e/icons/python.svg" alt="python" width="40" height="40"/> 
  <img src="" alt="mysql" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
- <img src="" alt="bootstrap" width="40" height="40"/> 
+ <img src="https://raw.githubusercontent.com/muskan-salampuria/muskan-salampuria/12471ae34448b660674c5a54b7a38f2586fb5df4/icons/bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
  <img src="" alt="css3" width="40" height="40"/>  
  <img src="" alt="html5" width="40" height="40"/> 
  
