@@ -21,7 +21,7 @@
  <img src="https://raw.githubusercontent.com/muskan-salampuria/muskan-salampuria/305922fd66724a4ec9fc7217f0edb2fd6c8807bc/icons/c-programming.svg" alt="C" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/muskan-salampuria/muskan-salampuria/d4a57d56db6192097d730e5d9ffe08549d323d95/icons/java.svg" alt="java" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/muskan-salampuria/muskan-salampuria/0caab32de528276613e6eb6d43dbd0d24a4f812e/icons/python.svg" alt="python" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/muskan-salampuria/muskan-salampuria/b670a0e386224bbfc12e248906a1308c083111f7/icons/html.svg" alt="mysql" width="40" height="40"/> 
+ <img src="https://raw.githubusercontent.com/muskan-salampuria/muskan-salampuria/2fe47cf799b5b7bb4bd1d85ba8648a20f24aded6/icons/mysql.svg" alt="mysql" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/muskan-salampuria/muskan-salampuria/12471ae34448b660674c5a54b7a38f2586fb5df4/icons/bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/muskan-salampuria/muskan-salampuria/53179a792daa27b6340801fdf7eca3b77a8c17d0/icons/css3.svg" alt="css3" width="40" height="40"/>  
